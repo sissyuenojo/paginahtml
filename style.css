@@ -1,0 +1,23 @@
+html * {
+   margin: 0px;
+   text-align: center; 
+}
+
+#titulo {
+    background-color: blueviolet;
+    color: #ffffff;
+}
+
+#texto1 {
+    margin:  30px 20px;
+}
+
+img {
+    width: 100%;
+}
+
+.linha {
+    height: 10px;
+    background-color: blueviolet;
+    margin: 10px 0px;
+}
